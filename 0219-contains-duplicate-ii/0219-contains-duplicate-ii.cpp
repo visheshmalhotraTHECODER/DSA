@@ -5,14 +5,15 @@ public:
 
         for(int i = 0; i<nums.size(); i++){
 
-           if(jhola.find(nums[i])!=jhola.end()){
-            if(i - jhola[nums[i]]<=k){
+           if(jhola.find(nums[i])!=jhola.end() && (i - jhola[nums[i]]<=k)){
+            
                 return true;
             }
 
-           }
-           jhola[nums[i]] = i ;
+           
+           jhola[nums[i]] = i;
         }
+        
         return false;
         
     }
