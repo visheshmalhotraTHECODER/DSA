@@ -4,7 +4,7 @@ public:
         int n = nums.size();
 
         int sum = 0;
-        int maxi = INT_MIN;
+        int maxi = nums[0];
 
         for(int i=0;i<n;i++){
             sum+=nums[i];
