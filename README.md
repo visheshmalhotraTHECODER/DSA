@@ -9,6 +9,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0026-remove-duplicates-from-sorted-array](https://github.com/visheshmalhotraTHECODER/DSA/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0031-next-permutation](https://github.com/visheshmalhotraTHECODER/DSA/tree/master/0031-next-permutation) |
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/visheshmalhotraTHECODER/DSA/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
+| [0049-group-anagrams](https://github.com/visheshmalhotraTHECODER/DSA/tree/master/0049-group-anagrams) |
 | [0053-maximum-subarray](https://github.com/visheshmalhotraTHECODER/DSA/tree/master/0053-maximum-subarray) |
 | [0088-merge-sorted-array](https://github.com/visheshmalhotraTHECODER/DSA/tree/master/0088-merge-sorted-array) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/visheshmalhotraTHECODER/DSA/tree/master/0153-find-minimum-in-rotated-sorted-array) |
@@ -19,6 +20,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Hash Table
 |  |
 | ------- |
+| [0049-group-anagrams](https://github.com/visheshmalhotraTHECODER/DSA/tree/master/0049-group-anagrams) |
 | [0219-contains-duplicate-ii](https://github.com/visheshmalhotraTHECODER/DSA/tree/master/0219-contains-duplicate-ii) |
 | [0242-valid-anagram](https://github.com/visheshmalhotraTHECODER/DSA/tree/master/0242-valid-anagram) |
 | [0953-verifying-an-alien-dictionary](https://github.com/visheshmalhotraTHECODER/DSA/tree/master/0953-verifying-an-alien-dictionary) |
@@ -57,6 +59,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0015-3sum](https://github.com/visheshmalhotraTHECODER/DSA/tree/master/0015-3sum) |
+| [0049-group-anagrams](https://github.com/visheshmalhotraTHECODER/DSA/tree/master/0049-group-anagrams) |
 | [0088-merge-sorted-array](https://github.com/visheshmalhotraTHECODER/DSA/tree/master/0088-merge-sorted-array) |
 | [0242-valid-anagram](https://github.com/visheshmalhotraTHECODER/DSA/tree/master/0242-valid-anagram) |
 ## Greedy
@@ -66,6 +69,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## String
 |  |
 | ------- |
+| [0049-group-anagrams](https://github.com/visheshmalhotraTHECODER/DSA/tree/master/0049-group-anagrams) |
 | [0242-valid-anagram](https://github.com/visheshmalhotraTHECODER/DSA/tree/master/0242-valid-anagram) |
 | [0953-verifying-an-alien-dictionary](https://github.com/visheshmalhotraTHECODER/DSA/tree/master/0953-verifying-an-alien-dictionary) |
 <!---LeetCode Topics End-->
