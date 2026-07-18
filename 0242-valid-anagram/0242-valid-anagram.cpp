@@ -2,16 +2,22 @@ class Solution {
 public:
     bool isAnagram(string s, string t) {
 
-        if(s.size()!=t.size()){
+        if (s.size() != t.size()) {
             return false;
         }
-        sort(s.begin(),s.end());
-        sort(t.begin(),t.end());
+        unordered_map<char, int> jhola;
 
-        if(s==t){
-            return true;
+        for (char ch : s) {
+            jhola[ch]++;
         }
-        return false;
-        
+        for (char ch : t) {
+            jhola[ch]--;
+        }
+        for (auto bag : jhola) {
+            if (bag.second != 0) {
+                return false;
+            }
+        }
+        return true;
     }
 };
