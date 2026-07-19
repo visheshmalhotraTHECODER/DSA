@@ -6,6 +6,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/visheshmalhotraTHECODER/DSA/tree/master/0004-median-of-two-sorted-arrays) |
 | [0011-container-with-most-water](https://github.com/visheshmalhotraTHECODER/DSA/tree/master/0011-container-with-most-water) |
+| [0014-longest-common-prefix](https://github.com/visheshmalhotraTHECODER/DSA/tree/master/0014-longest-common-prefix) |
 | [0015-3sum](https://github.com/visheshmalhotraTHECODER/DSA/tree/master/0015-3sum) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/visheshmalhotraTHECODER/DSA/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0031-next-permutation](https://github.com/visheshmalhotraTHECODER/DSA/tree/master/0031-next-permutation) |
@@ -76,6 +77,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## String
 |  |
 | ------- |
+| [0014-longest-common-prefix](https://github.com/visheshmalhotraTHECODER/DSA/tree/master/0014-longest-common-prefix) |
 | [0049-group-anagrams](https://github.com/visheshmalhotraTHECODER/DSA/tree/master/0049-group-anagrams) |
 | [0242-valid-anagram](https://github.com/visheshmalhotraTHECODER/DSA/tree/master/0242-valid-anagram) |
 | [0412-fizz-buzz](https://github.com/visheshmalhotraTHECODER/DSA/tree/master/0412-fizz-buzz) |
@@ -104,4 +106,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0412-fizz-buzz](https://github.com/visheshmalhotraTHECODER/DSA/tree/master/0412-fizz-buzz) |
+## Trie
+|  |
+| ------- |
+| [0014-longest-common-prefix](https://github.com/visheshmalhotraTHECODER/DSA/tree/master/0014-longest-common-prefix) |
 <!---LeetCode Topics End-->
