@@ -28,11 +28,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0219-contains-duplicate-ii](https://github.com/visheshmalhotraTHECODER/DSA/tree/master/0219-contains-duplicate-ii) |
 | [0242-valid-anagram](https://github.com/visheshmalhotraTHECODER/DSA/tree/master/0242-valid-anagram) |
 | [0347-top-k-frequent-elements](https://github.com/visheshmalhotraTHECODER/DSA/tree/master/0347-top-k-frequent-elements) |
+| [0424-longest-repeating-character-replacement](https://github.com/visheshmalhotraTHECODER/DSA/tree/master/0424-longest-repeating-character-replacement) |
 | [0953-verifying-an-alien-dictionary](https://github.com/visheshmalhotraTHECODER/DSA/tree/master/0953-verifying-an-alien-dictionary) |
 ## Sliding Window
 |  |
 | ------- |
 | [0219-contains-duplicate-ii](https://github.com/visheshmalhotraTHECODER/DSA/tree/master/0219-contains-duplicate-ii) |
+| [0424-longest-repeating-character-replacement](https://github.com/visheshmalhotraTHECODER/DSA/tree/master/0424-longest-repeating-character-replacement) |
 ## Prefix Sum
 |  |
 | ------- |
@@ -86,6 +88,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0049-group-anagrams](https://github.com/visheshmalhotraTHECODER/DSA/tree/master/0049-group-anagrams) |
 | [0242-valid-anagram](https://github.com/visheshmalhotraTHECODER/DSA/tree/master/0242-valid-anagram) |
 | [0412-fizz-buzz](https://github.com/visheshmalhotraTHECODER/DSA/tree/master/0412-fizz-buzz) |
+| [0424-longest-repeating-character-replacement](https://github.com/visheshmalhotraTHECODER/DSA/tree/master/0424-longest-repeating-character-replacement) |
 | [0953-verifying-an-alien-dictionary](https://github.com/visheshmalhotraTHECODER/DSA/tree/master/0953-verifying-an-alien-dictionary) |
 ## Heap (Priority Queue)
 |  |
