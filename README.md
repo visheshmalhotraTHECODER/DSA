@@ -70,6 +70,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0026-remove-duplicates-from-sorted-array](https://github.com/visheshmalhotraTHECODER/DSA/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0031-next-permutation](https://github.com/visheshmalhotraTHECODER/DSA/tree/master/0031-next-permutation) |
 | [0088-merge-sorted-array](https://github.com/visheshmalhotraTHECODER/DSA/tree/master/0088-merge-sorted-array) |
+| [0125-valid-palindrome](https://github.com/visheshmalhotraTHECODER/DSA/tree/master/0125-valid-palindrome) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/visheshmalhotraTHECODER/DSA/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 ## Sorting
 |  |
@@ -92,6 +93,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0014-longest-common-prefix](https://github.com/visheshmalhotraTHECODER/DSA/tree/master/0014-longest-common-prefix) |
 | [0020-valid-parentheses](https://github.com/visheshmalhotraTHECODER/DSA/tree/master/0020-valid-parentheses) |
 | [0049-group-anagrams](https://github.com/visheshmalhotraTHECODER/DSA/tree/master/0049-group-anagrams) |
+| [0125-valid-palindrome](https://github.com/visheshmalhotraTHECODER/DSA/tree/master/0125-valid-palindrome) |
 | [0242-valid-anagram](https://github.com/visheshmalhotraTHECODER/DSA/tree/master/0242-valid-anagram) |
 | [0412-fizz-buzz](https://github.com/visheshmalhotraTHECODER/DSA/tree/master/0412-fizz-buzz) |
 | [0424-longest-repeating-character-replacement](https://github.com/visheshmalhotraTHECODER/DSA/tree/master/0424-longest-repeating-character-replacement) |
