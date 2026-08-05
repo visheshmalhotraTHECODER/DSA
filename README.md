@@ -53,6 +53,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/visheshmalhotraTHECODER/DSA/tree/master/0005-longest-palindromic-substring) |
 | [0053-maximum-subarray](https://github.com/visheshmalhotraTHECODER/DSA/tree/master/0053-maximum-subarray) |
+| [0509-fibonacci-number](https://github.com/visheshmalhotraTHECODER/DSA/tree/master/0509-fibonacci-number) |
 ## Binary Search
 |  |
 | ------- |
@@ -119,6 +120,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0412-fizz-buzz](https://github.com/visheshmalhotraTHECODER/DSA/tree/master/0412-fizz-buzz) |
+| [0509-fibonacci-number](https://github.com/visheshmalhotraTHECODER/DSA/tree/master/0509-fibonacci-number) |
 ## Simulation
 |  |
 | ------- |
@@ -131,4 +133,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/visheshmalhotraTHECODER/DSA/tree/master/0020-valid-parentheses) |
+## Recursion
+|  |
+| ------- |
+| [0509-fibonacci-number](https://github.com/visheshmalhotraTHECODER/DSA/tree/master/0509-fibonacci-number) |
+## Memoization
+|  |
+| ------- |
+| [0509-fibonacci-number](https://github.com/visheshmalhotraTHECODER/DSA/tree/master/0509-fibonacci-number) |
 <!---LeetCode Topics End-->
