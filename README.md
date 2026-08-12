@@ -29,6 +29,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0704-binary-search](https://github.com/visheshmalhotraTHECODER/DSA/tree/master/0704-binary-search) |
 | [0953-verifying-an-alien-dictionary](https://github.com/visheshmalhotraTHECODER/DSA/tree/master/0953-verifying-an-alien-dictionary) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/visheshmalhotraTHECODER/DSA/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
+| [1480-running-sum-of-1d-array](https://github.com/visheshmalhotraTHECODER/DSA/tree/master/1480-running-sum-of-1d-array) |
 ## Hash Table
 |  |
 | ------- |
@@ -49,6 +50,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0238-product-of-array-except-self](https://github.com/visheshmalhotraTHECODER/DSA/tree/master/0238-product-of-array-except-self) |
+| [1480-running-sum-of-1d-array](https://github.com/visheshmalhotraTHECODER/DSA/tree/master/1480-running-sum-of-1d-array) |
 ## Divide and Conquer
 |  |
 | ------- |
