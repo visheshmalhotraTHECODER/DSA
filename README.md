@@ -19,6 +19,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0047-permutations-ii](https://github.com/visheshmalhotraTHECODER/DSA/tree/master/0047-permutations-ii) |
 | [0049-group-anagrams](https://github.com/visheshmalhotraTHECODER/DSA/tree/master/0049-group-anagrams) |
 | [0053-maximum-subarray](https://github.com/visheshmalhotraTHECODER/DSA/tree/master/0053-maximum-subarray) |
+| [0054-spiral-matrix](https://github.com/visheshmalhotraTHECODER/DSA/tree/master/0054-spiral-matrix) |
 | [0078-subsets](https://github.com/visheshmalhotraTHECODER/DSA/tree/master/0078-subsets) |
 | [0088-merge-sorted-array](https://github.com/visheshmalhotraTHECODER/DSA/tree/master/0088-merge-sorted-array) |
 | [0090-subsets-ii](https://github.com/visheshmalhotraTHECODER/DSA/tree/master/0090-subsets-ii) |
@@ -144,6 +145,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Simulation
 |  |
 | ------- |
+| [0054-spiral-matrix](https://github.com/visheshmalhotraTHECODER/DSA/tree/master/0054-spiral-matrix) |
 | [0412-fizz-buzz](https://github.com/visheshmalhotraTHECODER/DSA/tree/master/0412-fizz-buzz) |
 ## Trie
 |  |
@@ -176,4 +178,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0078-subsets](https://github.com/visheshmalhotraTHECODER/DSA/tree/master/0078-subsets) |
 | [0090-subsets-ii](https://github.com/visheshmalhotraTHECODER/DSA/tree/master/0090-subsets-ii) |
+## Matrix
+|  |
+| ------- |
+| [0054-spiral-matrix](https://github.com/visheshmalhotraTHECODER/DSA/tree/master/0054-spiral-matrix) |
 <!---LeetCode Topics End-->
