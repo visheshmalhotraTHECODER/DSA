@@ -4,10 +4,11 @@ public:
 
         unordered_map<int,int>jhola;
 
-        for(int i = 0; i<nums.size(); i++){
-            jhola[nums[i]]++;
-
+        for(int num:nums){
+            jhola[num]++;
         }
+
+        
         priority_queue<pair<int,int>>pq;
 
         for(auto item : jhola){
@@ -15,13 +16,12 @@ public:
         }
         vector<int>ans;
 
-        while(k--){
-            ans.push_back(pq.top().second);
-            pq.pop();
+        while(k--){;
+
+        ans.push_back(pq.top().second);
+        pq.pop();
         }
         return ans;
 
-
-        
     }
 };
