@@ -2,38 +2,21 @@ class Solution {
 public:
     vector<vector<string>> groupAnagrams(vector<string>& strs) {
 
-        unordered_map<string, vector<string>> jhola;
+        unordered_map<string,vector<string>>jhola;
 
-        for (string s : strs) {
-            int count[26];
+        for(string s : strs){
 
-            for (int i = 0; i < 26; i++) {
-                count[i] = 0;
-            }
+            string key = s;
 
-            for (char ch : s) {
-                count[ch - 'a']++;
-            }
-            string key = "";
+            sort(key.begin(),key.end());
 
-            for (int i = 0; i < 26; i++) {
-                key += '#';
-                key += to_string(count[i]);
-            }
-            if (jhola.find(key) == jhola.end()) {
+            jhola[key].push_back(s);
+        }
+        vector<vector<string>>ans;
 
-                jhola[key] = {};
-            }
-
-                jhola[key].push_back(s);
-            }
-            vector<vector<string>>ans;
-
-            for (auto item : jhola) {
-                ans.push_back(item.second);
-            }
-            
+        for (auto it : jhola) {
+            ans.push_back(it.second);
+        }
         return ans;
-       
     }
 };
