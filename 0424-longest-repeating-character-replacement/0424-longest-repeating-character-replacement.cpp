@@ -2,29 +2,42 @@ class Solution {
 public:
     int characterReplacement(string s, int k) {
 
-        int ans = 0;
+        int left = 0; 
 
-        int left = 0;
+        int right = 0;
+
+        int ans = 0;
 
         int maxFreq = 0;
 
         int freq[26] = {0};
 
-        for(int right = 0; right < s.size(); right++){
-
+        while(right < s.length()){
             freq[s[right]-'A']++;
-        
 
-        maxFreq = max(maxFreq, freq[s[right]-'A']);
+            maxFreq = max(maxFreq, freq[s[right]-'A'] );
 
-        while((right-left+1) - maxFreq > k ){
+            int window = right-left+1;
 
-            freq[s[left]-'A']--;
+            int requirement = window - maxFreq;
 
-            left++;
-        }
-        ans = max(ans,right-left+1);
+            while(requirement > k ){
+                freq[s[left]-'A']--;
+
+                left++;
+
+                window = right -left +1;
+
+                requirement  = window - maxFreq;
+            }
+
+            ans = max(ans, window);
+
+            right++;
+
         }
         return ans;
+
+        
     }
 };
