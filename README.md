@@ -49,6 +49,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0036-valid-sudoku](https://github.com/visheshmalhotraTHECODER/DSA/tree/master/0036-valid-sudoku) |
 | [0049-group-anagrams](https://github.com/visheshmalhotraTHECODER/DSA/tree/master/0049-group-anagrams) |
 | [0073-set-matrix-zeroes](https://github.com/visheshmalhotraTHECODER/DSA/tree/master/0073-set-matrix-zeroes) |
+| [0076-minimum-window-substring](https://github.com/visheshmalhotraTHECODER/DSA/tree/master/0076-minimum-window-substring) |
 | [0128-longest-consecutive-sequence](https://github.com/visheshmalhotraTHECODER/DSA/tree/master/0128-longest-consecutive-sequence) |
 | [0217-contains-duplicate](https://github.com/visheshmalhotraTHECODER/DSA/tree/master/0217-contains-duplicate) |
 | [0219-contains-duplicate-ii](https://github.com/visheshmalhotraTHECODER/DSA/tree/master/0219-contains-duplicate-ii) |
@@ -61,6 +62,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/visheshmalhotraTHECODER/DSA/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0076-minimum-window-substring](https://github.com/visheshmalhotraTHECODER/DSA/tree/master/0076-minimum-window-substring) |
 | [0219-contains-duplicate-ii](https://github.com/visheshmalhotraTHECODER/DSA/tree/master/0219-contains-duplicate-ii) |
 | [0424-longest-repeating-character-replacement](https://github.com/visheshmalhotraTHECODER/DSA/tree/master/0424-longest-repeating-character-replacement) |
 | [0567-permutation-in-string](https://github.com/visheshmalhotraTHECODER/DSA/tree/master/0567-permutation-in-string) |
@@ -132,6 +134,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0014-longest-common-prefix](https://github.com/visheshmalhotraTHECODER/DSA/tree/master/0014-longest-common-prefix) |
 | [0020-valid-parentheses](https://github.com/visheshmalhotraTHECODER/DSA/tree/master/0020-valid-parentheses) |
 | [0049-group-anagrams](https://github.com/visheshmalhotraTHECODER/DSA/tree/master/0049-group-anagrams) |
+| [0076-minimum-window-substring](https://github.com/visheshmalhotraTHECODER/DSA/tree/master/0076-minimum-window-substring) |
 | [0125-valid-palindrome](https://github.com/visheshmalhotraTHECODER/DSA/tree/master/0125-valid-palindrome) |
 | [0242-valid-anagram](https://github.com/visheshmalhotraTHECODER/DSA/tree/master/0242-valid-anagram) |
 | [0412-fizz-buzz](https://github.com/visheshmalhotraTHECODER/DSA/tree/master/0412-fizz-buzz) |
