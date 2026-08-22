@@ -32,9 +32,9 @@ public:
 
                 if(grid[i][j] == 1){
 
-                    int currentArea = solveDfs(grid,i,j);
+                    int Area = solveDfs(grid,i,j);
 
-                    maxArea = max(maxArea, currentArea);
+                    maxArea = max(maxArea, Area);
 
                 }
             }
