@@ -41,6 +41,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0347-top-k-frequent-elements](https://github.com/visheshmalhotraTHECODER/DSA/tree/master/0347-top-k-frequent-elements) |
 | [0496-next-greater-element-i](https://github.com/visheshmalhotraTHECODER/DSA/tree/master/0496-next-greater-element-i) |
 | [0503-next-greater-element-ii](https://github.com/visheshmalhotraTHECODER/DSA/tree/master/0503-next-greater-element-ii) |
+| [0695-max-area-of-island](https://github.com/visheshmalhotraTHECODER/DSA/tree/master/0695-max-area-of-island) |
 | [0704-binary-search](https://github.com/visheshmalhotraTHECODER/DSA/tree/master/0704-binary-search) |
 | [0739-daily-temperatures](https://github.com/visheshmalhotraTHECODER/DSA/tree/master/0739-daily-temperatures) |
 | [0953-verifying-an-alien-dictionary](https://github.com/visheshmalhotraTHECODER/DSA/tree/master/0953-verifying-an-alien-dictionary) |
@@ -226,6 +227,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0054-spiral-matrix](https://github.com/visheshmalhotraTHECODER/DSA/tree/master/0054-spiral-matrix) |
 | [0059-spiral-matrix-ii](https://github.com/visheshmalhotraTHECODER/DSA/tree/master/0059-spiral-matrix-ii) |
 | [0073-set-matrix-zeroes](https://github.com/visheshmalhotraTHECODER/DSA/tree/master/0073-set-matrix-zeroes) |
+| [0695-max-area-of-island](https://github.com/visheshmalhotraTHECODER/DSA/tree/master/0695-max-area-of-island) |
 ## Quicksort
 |  |
 | ------- |
@@ -238,6 +240,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0128-longest-consecutive-sequence](https://github.com/visheshmalhotraTHECODER/DSA/tree/master/0128-longest-consecutive-sequence) |
+| [0695-max-area-of-island](https://github.com/visheshmalhotraTHECODER/DSA/tree/master/0695-max-area-of-island) |
 ## Queue
 |  |
 | ------- |
@@ -265,4 +268,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0496-next-greater-element-i](https://github.com/visheshmalhotraTHECODER/DSA/tree/master/0496-next-greater-element-i) |
 | [0503-next-greater-element-ii](https://github.com/visheshmalhotraTHECODER/DSA/tree/master/0503-next-greater-element-ii) |
 | [0739-daily-temperatures](https://github.com/visheshmalhotraTHECODER/DSA/tree/master/0739-daily-temperatures) |
+## Depth-First Search
+|  |
+| ------- |
+| [0695-max-area-of-island](https://github.com/visheshmalhotraTHECODER/DSA/tree/master/0695-max-area-of-island) |
+## Breadth-First Search
+|  |
+| ------- |
+| [0695-max-area-of-island](https://github.com/visheshmalhotraTHECODER/DSA/tree/master/0695-max-area-of-island) |
 <!---LeetCode Topics End-->
