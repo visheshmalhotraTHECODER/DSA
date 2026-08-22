@@ -39,6 +39,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0238-product-of-array-except-self](https://github.com/visheshmalhotraTHECODER/DSA/tree/master/0238-product-of-array-except-self) |
 | [0239-sliding-window-maximum](https://github.com/visheshmalhotraTHECODER/DSA/tree/master/0239-sliding-window-maximum) |
 | [0347-top-k-frequent-elements](https://github.com/visheshmalhotraTHECODER/DSA/tree/master/0347-top-k-frequent-elements) |
+| [0496-next-greater-element-i](https://github.com/visheshmalhotraTHECODER/DSA/tree/master/0496-next-greater-element-i) |
 | [0704-binary-search](https://github.com/visheshmalhotraTHECODER/DSA/tree/master/0704-binary-search) |
 | [0739-daily-temperatures](https://github.com/visheshmalhotraTHECODER/DSA/tree/master/0739-daily-temperatures) |
 | [0953-verifying-an-alien-dictionary](https://github.com/visheshmalhotraTHECODER/DSA/tree/master/0953-verifying-an-alien-dictionary) |
@@ -59,6 +60,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0242-valid-anagram](https://github.com/visheshmalhotraTHECODER/DSA/tree/master/0242-valid-anagram) |
 | [0347-top-k-frequent-elements](https://github.com/visheshmalhotraTHECODER/DSA/tree/master/0347-top-k-frequent-elements) |
 | [0424-longest-repeating-character-replacement](https://github.com/visheshmalhotraTHECODER/DSA/tree/master/0424-longest-repeating-character-replacement) |
+| [0496-next-greater-element-i](https://github.com/visheshmalhotraTHECODER/DSA/tree/master/0496-next-greater-element-i) |
 | [0567-permutation-in-string](https://github.com/visheshmalhotraTHECODER/DSA/tree/master/0567-permutation-in-string) |
 | [0953-verifying-an-alien-dictionary](https://github.com/visheshmalhotraTHECODER/DSA/tree/master/0953-verifying-an-alien-dictionary) |
 ## Sliding Window
@@ -188,6 +190,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0020-valid-parentheses](https://github.com/visheshmalhotraTHECODER/DSA/tree/master/0020-valid-parentheses) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/visheshmalhotraTHECODER/DSA/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0155-min-stack](https://github.com/visheshmalhotraTHECODER/DSA/tree/master/0155-min-stack) |
+| [0496-next-greater-element-i](https://github.com/visheshmalhotraTHECODER/DSA/tree/master/0496-next-greater-element-i) |
 | [0739-daily-temperatures](https://github.com/visheshmalhotraTHECODER/DSA/tree/master/0739-daily-temperatures) |
 ## Recursion
 |  |
@@ -256,5 +259,6 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Monotonic Stack
 |  |
 | ------- |
+| [0496-next-greater-element-i](https://github.com/visheshmalhotraTHECODER/DSA/tree/master/0496-next-greater-element-i) |
 | [0739-daily-temperatures](https://github.com/visheshmalhotraTHECODER/DSA/tree/master/0739-daily-temperatures) |
 <!---LeetCode Topics End-->
