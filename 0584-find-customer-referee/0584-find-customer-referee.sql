@@ -4,4 +4,4 @@ SELECT
 FROM
     Customer
 WHERE
-    IFNULL(referee_id , 0) != 2     
+    IFNULL(referee_id , 0) <> 2     
