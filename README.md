@@ -33,6 +33,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0150-evaluate-reverse-polish-notation](https://github.com/visheshmalhotraTHECODER/DSA/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/visheshmalhotraTHECODER/DSA/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/visheshmalhotraTHECODER/DSA/tree/master/0167-two-sum-ii-input-array-is-sorted) |
+| [0200-number-of-islands](https://github.com/visheshmalhotraTHECODER/DSA/tree/master/0200-number-of-islands) |
 | [0216-combination-sum-iii](https://github.com/visheshmalhotraTHECODER/DSA/tree/master/0216-combination-sum-iii) |
 | [0217-contains-duplicate](https://github.com/visheshmalhotraTHECODER/DSA/tree/master/0217-contains-duplicate) |
 | [0219-contains-duplicate-ii](https://github.com/visheshmalhotraTHECODER/DSA/tree/master/0219-contains-duplicate-ii) |
@@ -233,6 +234,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0054-spiral-matrix](https://github.com/visheshmalhotraTHECODER/DSA/tree/master/0054-spiral-matrix) |
 | [0059-spiral-matrix-ii](https://github.com/visheshmalhotraTHECODER/DSA/tree/master/0059-spiral-matrix-ii) |
 | [0073-set-matrix-zeroes](https://github.com/visheshmalhotraTHECODER/DSA/tree/master/0073-set-matrix-zeroes) |
+| [0200-number-of-islands](https://github.com/visheshmalhotraTHECODER/DSA/tree/master/0200-number-of-islands) |
 | [0695-max-area-of-island](https://github.com/visheshmalhotraTHECODER/DSA/tree/master/0695-max-area-of-island) |
 ## Quicksort
 |  |
@@ -246,6 +248,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0128-longest-consecutive-sequence](https://github.com/visheshmalhotraTHECODER/DSA/tree/master/0128-longest-consecutive-sequence) |
+| [0200-number-of-islands](https://github.com/visheshmalhotraTHECODER/DSA/tree/master/0200-number-of-islands) |
 | [0547-number-of-provinces](https://github.com/visheshmalhotraTHECODER/DSA/tree/master/0547-number-of-provinces) |
 | [0695-max-area-of-island](https://github.com/visheshmalhotraTHECODER/DSA/tree/master/0695-max-area-of-island) |
 ## Queue
@@ -278,11 +281,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Depth-First Search
 |  |
 | ------- |
+| [0200-number-of-islands](https://github.com/visheshmalhotraTHECODER/DSA/tree/master/0200-number-of-islands) |
 | [0547-number-of-provinces](https://github.com/visheshmalhotraTHECODER/DSA/tree/master/0547-number-of-provinces) |
 | [0695-max-area-of-island](https://github.com/visheshmalhotraTHECODER/DSA/tree/master/0695-max-area-of-island) |
 ## Breadth-First Search
 |  |
 | ------- |
+| [0200-number-of-islands](https://github.com/visheshmalhotraTHECODER/DSA/tree/master/0200-number-of-islands) |
 | [0547-number-of-provinces](https://github.com/visheshmalhotraTHECODER/DSA/tree/master/0547-number-of-provinces) |
 | [0695-max-area-of-island](https://github.com/visheshmalhotraTHECODER/DSA/tree/master/0695-max-area-of-island) |
 ## Graph Theory
