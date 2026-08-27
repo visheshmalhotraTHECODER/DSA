@@ -102,6 +102,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0022-generate-parentheses](https://github.com/visheshmalhotraTHECODER/DSA/tree/master/0022-generate-parentheses) |
 | [0053-maximum-subarray](https://github.com/visheshmalhotraTHECODER/DSA/tree/master/0053-maximum-subarray) |
 | [0055-jump-game](https://github.com/visheshmalhotraTHECODER/DSA/tree/master/0055-jump-game) |
+| [0070-climbing-stairs](https://github.com/visheshmalhotraTHECODER/DSA/tree/master/0070-climbing-stairs) |
 | [0118-pascals-triangle](https://github.com/visheshmalhotraTHECODER/DSA/tree/master/0118-pascals-triangle) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/visheshmalhotraTHECODER/DSA/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0509-fibonacci-number](https://github.com/visheshmalhotraTHECODER/DSA/tree/master/0509-fibonacci-number) |
@@ -190,6 +191,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Math
 |  |
 | ------- |
+| [0070-climbing-stairs](https://github.com/visheshmalhotraTHECODER/DSA/tree/master/0070-climbing-stairs) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/visheshmalhotraTHECODER/DSA/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0268-missing-number](https://github.com/visheshmalhotraTHECODER/DSA/tree/master/0268-missing-number) |
 | [0412-fizz-buzz](https://github.com/visheshmalhotraTHECODER/DSA/tree/master/0412-fizz-buzz) |
@@ -221,6 +223,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Memoization
 |  |
 | ------- |
+| [0070-climbing-stairs](https://github.com/visheshmalhotraTHECODER/DSA/tree/master/0070-climbing-stairs) |
 | [0509-fibonacci-number](https://github.com/visheshmalhotraTHECODER/DSA/tree/master/0509-fibonacci-number) |
 ## Backtracking
 |  |
