@@ -3,14 +3,14 @@ public:
     vector<int> twoSum(vector<int>& nums, int target) {
         unordered_map<int,int>jhola;
 
-        for(int i = 0; i<nums.size(); i++){
-            int req = target - nums[i];
-
-            if(jhola.find(req)!=jhola.end()){
-                return {jhola[req],i};
+        for(int  i = 0 ; i<nums.size(); i++){
+            int required = target - nums[i];
+            if(jhola.find(required)!= jhola.end()){
+                return {i, jhola[required]};
             }
-            jhola[nums[i]]= i;
+            jhola[nums[i]]=i;
         }
         return {};
+        
     }
 };
