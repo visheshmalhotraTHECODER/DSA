@@ -1,28 +1,17 @@
 class Solution {
 public:
-
-    int solve(int n,vector<int>& dp ){
-        if(n == 0){// basically apan end p phauch gyue
-            return 1;
-        }
-        if(n == 1){
-            return 1;
-        }
-        if(dp[n]!= -1){
-            return dp[n];
-
-        }
-        int onestep= solve(n-1, dp);
-        int twostep = solve(n-2, dp);
-
-        dp[n] = onestep + twostep;
-
-        return dp[n];
-    }
-
     int climbStairs(int n) {
-        vector<int> dp(n + 1, -1);
-        return solve(n,dp);
-        
+        if(n<=2){
+            return n;
+        }
+       int a = 1; 
+       int b = 2;
+
+       for(int  i = 3; i<=n; i++){
+        int c  =  a+ b;
+        a = b;
+        b = c;
+       }
+       return b;
     }
 };
