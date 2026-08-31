@@ -1,44 +1,47 @@
 class Solution {
 public:
     vector<vector<int>> threeSum(vector<int>& nums) {
+        int n  = nums.size();
+        vector<vector<int>>ans;
 
-        int n = nums.size();
-
-        set<vector<int>>uniqueElements;
-
+        sort(nums.begin(), nums.end());
         
+        for(int i =0 ; i<n-2 ; i++){
 
-        for(int i = 0; i<n; i++){
+            if(i>0 && nums[i]==nums[i-1]){
+                continue;
+            }
+            int left  = i+1;
+            int right = n-1;
 
-            if (i > 0 && nums[i] == nums[i-1])
-    continue;
+            while(left<right){
+                int sum = nums[i]+nums[left]+nums[right];
 
-        unordered_set<int>jhola;    
+                if(sum == 0){
+                    ans.push_back({nums[i],nums[left],nums[right]});
+                    left++;
+                    right--;
+                
+                while(left<right && nums[left]==nums[left-1]){
+                    left++;
+                }
+                while(left<right && nums[right] == nums[right+1]){
+                    right--;
+                }
+            }
+                else if(sum<0){
+                    left++;
+                }
 
-        for(int j = i+1; j<n; j++){
-
-
-            int third = -(nums[i]+nums[j]);
-
-            if(jhola.find(third)!= jhola.end()){
-                vector<int>temp = {nums[i],nums[j],third};
-
-
-                sort(temp.begin(),temp.end());
-
-                uniqueElements.insert(temp);
-
-
-
+                else{
+                    right--;
+                }
 
             }
 
-            jhola.insert(nums[j]);
-        }
 
-
-        
         }
-        return vector<vector<int>> (uniqueElements.begin(),uniqueElements.end());
+        return ans;
+
     }
 };
