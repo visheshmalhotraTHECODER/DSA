@@ -65,6 +65,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1480-running-sum-of-1d-array](https://github.com/visheshmalhotraTHECODER/DSA/tree/master/1480-running-sum-of-1d-array) |
 | [2091-removing-minimum-and-maximum-from-array](https://github.com/visheshmalhotraTHECODER/DSA/tree/master/2091-removing-minimum-and-maximum-from-array) |
 | [3718-smallest-missing-multiple-of-k](https://github.com/visheshmalhotraTHECODER/DSA/tree/master/3718-smallest-missing-multiple-of-k) |
+| [3875-construct-uniform-parity-array-i](https://github.com/visheshmalhotraTHECODER/DSA/tree/master/3875-construct-uniform-parity-array-i) |
 ## Hash Table
 |  |
 | ------- |
@@ -232,6 +233,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0412-fizz-buzz](https://github.com/visheshmalhotraTHECODER/DSA/tree/master/0412-fizz-buzz) |
 | [0509-fibonacci-number](https://github.com/visheshmalhotraTHECODER/DSA/tree/master/0509-fibonacci-number) |
 | [3622-check-divisibility-by-digit-sum-and-product](https://github.com/visheshmalhotraTHECODER/DSA/tree/master/3622-check-divisibility-by-digit-sum-and-product) |
+| [3875-construct-uniform-parity-array-i](https://github.com/visheshmalhotraTHECODER/DSA/tree/master/3875-construct-uniform-parity-array-i) |
 ## Simulation
 |  |
 | ------- |
