@@ -60,6 +60,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0714-best-time-to-buy-and-sell-stock-with-transaction-fee](https://github.com/visheshmalhotraTHECODER/DSA/tree/master/0714-best-time-to-buy-and-sell-stock-with-transaction-fee) |
 | [0724-find-pivot-index](https://github.com/visheshmalhotraTHECODER/DSA/tree/master/0724-find-pivot-index) |
 | [0739-daily-temperatures](https://github.com/visheshmalhotraTHECODER/DSA/tree/master/0739-daily-temperatures) |
+| [0746-min-cost-climbing-stairs](https://github.com/visheshmalhotraTHECODER/DSA/tree/master/0746-min-cost-climbing-stairs) |
 | [0860-lemonade-change](https://github.com/visheshmalhotraTHECODER/DSA/tree/master/0860-lemonade-change) |
 | [0953-verifying-an-alien-dictionary](https://github.com/visheshmalhotraTHECODER/DSA/tree/master/0953-verifying-an-alien-dictionary) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/visheshmalhotraTHECODER/DSA/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
@@ -130,6 +131,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0416-partition-equal-subset-sum](https://github.com/visheshmalhotraTHECODER/DSA/tree/master/0416-partition-equal-subset-sum) |
 | [0509-fibonacci-number](https://github.com/visheshmalhotraTHECODER/DSA/tree/master/0509-fibonacci-number) |
 | [0714-best-time-to-buy-and-sell-stock-with-transaction-fee](https://github.com/visheshmalhotraTHECODER/DSA/tree/master/0714-best-time-to-buy-and-sell-stock-with-transaction-fee) |
+| [0746-min-cost-climbing-stairs](https://github.com/visheshmalhotraTHECODER/DSA/tree/master/0746-min-cost-climbing-stairs) |
 ## Binary Search
 |  |
 | ------- |
