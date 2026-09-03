@@ -49,6 +49,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0268-missing-number](https://github.com/visheshmalhotraTHECODER/DSA/tree/master/0268-missing-number) |
 | [0283-move-zeroes](https://github.com/visheshmalhotraTHECODER/DSA/tree/master/0283-move-zeroes) |
 | [0347-top-k-frequent-elements](https://github.com/visheshmalhotraTHECODER/DSA/tree/master/0347-top-k-frequent-elements) |
+| [0416-partition-equal-subset-sum](https://github.com/visheshmalhotraTHECODER/DSA/tree/master/0416-partition-equal-subset-sum) |
 | [0452-minimum-number-of-arrows-to-burst-balloons](https://github.com/visheshmalhotraTHECODER/DSA/tree/master/0452-minimum-number-of-arrows-to-burst-balloons) |
 | [0455-assign-cookies](https://github.com/visheshmalhotraTHECODER/DSA/tree/master/0455-assign-cookies) |
 | [0496-next-greater-element-i](https://github.com/visheshmalhotraTHECODER/DSA/tree/master/0496-next-greater-element-i) |
@@ -124,6 +125,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0118-pascals-triangle](https://github.com/visheshmalhotraTHECODER/DSA/tree/master/0118-pascals-triangle) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/visheshmalhotraTHECODER/DSA/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/visheshmalhotraTHECODER/DSA/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
+| [0416-partition-equal-subset-sum](https://github.com/visheshmalhotraTHECODER/DSA/tree/master/0416-partition-equal-subset-sum) |
 | [0509-fibonacci-number](https://github.com/visheshmalhotraTHECODER/DSA/tree/master/0509-fibonacci-number) |
 | [0714-best-time-to-buy-and-sell-stock-with-transaction-fee](https://github.com/visheshmalhotraTHECODER/DSA/tree/master/0714-best-time-to-buy-and-sell-stock-with-transaction-fee) |
 ## Binary Search
@@ -375,4 +377,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0169-majority-element](https://github.com/visheshmalhotraTHECODER/DSA/tree/master/0169-majority-element) |
+## Knapsack Problem
+|  |
+| ------- |
+| [0416-partition-equal-subset-sum](https://github.com/visheshmalhotraTHECODER/DSA/tree/master/0416-partition-equal-subset-sum) |
+## 0-1 Knapsack
+|  |
+| ------- |
+| [0416-partition-equal-subset-sum](https://github.com/visheshmalhotraTHECODER/DSA/tree/master/0416-partition-equal-subset-sum) |
 <!---LeetCode Topics End-->
