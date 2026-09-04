@@ -5,11 +5,13 @@ public:
         if(s.length()!= t.length()){
             return false;
         }
-        int freq[26] = {0};
+        vector<int>freq(26,0);
 
-        for(int i = 0 ;i<s.size();i++){
-            freq[s[i]-'a']++;
-            freq[t[i]-'a']--;
+        for(char ch:s){
+            freq[ch - 'a']++;
+        }
+        for(char ch : t){
+            freq[ch-'a']--;
         }
         for(int it :freq){
             if(it != 0){
