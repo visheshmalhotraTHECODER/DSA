@@ -49,6 +49,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0239-sliding-window-maximum](https://github.com/visheshmalhotraTHECODER/DSA/tree/master/0239-sliding-window-maximum) |
 | [0268-missing-number](https://github.com/visheshmalhotraTHECODER/DSA/tree/master/0268-missing-number) |
 | [0274-h-index](https://github.com/visheshmalhotraTHECODER/DSA/tree/master/0274-h-index) |
+| [0275-h-index-ii](https://github.com/visheshmalhotraTHECODER/DSA/tree/master/0275-h-index-ii) |
 | [0283-move-zeroes](https://github.com/visheshmalhotraTHECODER/DSA/tree/master/0283-move-zeroes) |
 | [0347-top-k-frequent-elements](https://github.com/visheshmalhotraTHECODER/DSA/tree/master/0347-top-k-frequent-elements) |
 | [0416-partition-equal-subset-sum](https://github.com/visheshmalhotraTHECODER/DSA/tree/master/0416-partition-equal-subset-sum) |
@@ -149,6 +150,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/visheshmalhotraTHECODER/DSA/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/visheshmalhotraTHECODER/DSA/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0268-missing-number](https://github.com/visheshmalhotraTHECODER/DSA/tree/master/0268-missing-number) |
+| [0275-h-index-ii](https://github.com/visheshmalhotraTHECODER/DSA/tree/master/0275-h-index-ii) |
 | [0704-binary-search](https://github.com/visheshmalhotraTHECODER/DSA/tree/master/0704-binary-search) |
 ## Two Pointers
 |  |
