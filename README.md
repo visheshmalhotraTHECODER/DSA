@@ -40,6 +40,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/visheshmalhotraTHECODER/DSA/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/visheshmalhotraTHECODER/DSA/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0169-majority-element](https://github.com/visheshmalhotraTHECODER/DSA/tree/master/0169-majority-element) |
+| [0189-rotate-array](https://github.com/visheshmalhotraTHECODER/DSA/tree/master/0189-rotate-array) |
 | [0198-house-robber](https://github.com/visheshmalhotraTHECODER/DSA/tree/master/0198-house-robber) |
 | [0200-number-of-islands](https://github.com/visheshmalhotraTHECODER/DSA/tree/master/0200-number-of-islands) |
 | [0215-kth-largest-element-in-an-array](https://github.com/visheshmalhotraTHECODER/DSA/tree/master/0215-kth-largest-element-in-an-array) |
@@ -165,6 +166,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0088-merge-sorted-array](https://github.com/visheshmalhotraTHECODER/DSA/tree/master/0088-merge-sorted-array) |
 | [0125-valid-palindrome](https://github.com/visheshmalhotraTHECODER/DSA/tree/master/0125-valid-palindrome) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/visheshmalhotraTHECODER/DSA/tree/master/0167-two-sum-ii-input-array-is-sorted) |
+| [0189-rotate-array](https://github.com/visheshmalhotraTHECODER/DSA/tree/master/0189-rotate-array) |
 | [0283-move-zeroes](https://github.com/visheshmalhotraTHECODER/DSA/tree/master/0283-move-zeroes) |
 | [0455-assign-cookies](https://github.com/visheshmalhotraTHECODER/DSA/tree/master/0455-assign-cookies) |
 | [0567-permutation-in-string](https://github.com/visheshmalhotraTHECODER/DSA/tree/master/0567-permutation-in-string) |
@@ -247,6 +249,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0070-climbing-stairs](https://github.com/visheshmalhotraTHECODER/DSA/tree/master/0070-climbing-stairs) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/visheshmalhotraTHECODER/DSA/tree/master/0150-evaluate-reverse-polish-notation) |
+| [0189-rotate-array](https://github.com/visheshmalhotraTHECODER/DSA/tree/master/0189-rotate-array) |
 | [0268-missing-number](https://github.com/visheshmalhotraTHECODER/DSA/tree/master/0268-missing-number) |
 | [0412-fizz-buzz](https://github.com/visheshmalhotraTHECODER/DSA/tree/master/0412-fizz-buzz) |
 | [0509-fibonacci-number](https://github.com/visheshmalhotraTHECODER/DSA/tree/master/0509-fibonacci-number) |
