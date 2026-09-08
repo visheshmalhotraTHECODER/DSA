@@ -36,6 +36,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/visheshmalhotraTHECODER/DSA/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0128-longest-consecutive-sequence](https://github.com/visheshmalhotraTHECODER/DSA/tree/master/0128-longest-consecutive-sequence) |
 | [0135-candy](https://github.com/visheshmalhotraTHECODER/DSA/tree/master/0135-candy) |
+| [0136-single-number](https://github.com/visheshmalhotraTHECODER/DSA/tree/master/0136-single-number) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/visheshmalhotraTHECODER/DSA/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/visheshmalhotraTHECODER/DSA/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/visheshmalhotraTHECODER/DSA/tree/master/0167-two-sum-ii-input-array-is-sorted) |
@@ -301,6 +302,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0078-subsets](https://github.com/visheshmalhotraTHECODER/DSA/tree/master/0078-subsets) |
 | [0090-subsets-ii](https://github.com/visheshmalhotraTHECODER/DSA/tree/master/0090-subsets-ii) |
+| [0136-single-number](https://github.com/visheshmalhotraTHECODER/DSA/tree/master/0136-single-number) |
 | [0268-missing-number](https://github.com/visheshmalhotraTHECODER/DSA/tree/master/0268-missing-number) |
 | [2351-first-letter-to-appear-twice](https://github.com/visheshmalhotraTHECODER/DSA/tree/master/2351-first-letter-to-appear-twice) |
 ## Matrix
