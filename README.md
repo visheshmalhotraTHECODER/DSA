@@ -54,6 +54,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0274-h-index](https://github.com/visheshmalhotraTHECODER/DSA/tree/master/0274-h-index) |
 | [0275-h-index-ii](https://github.com/visheshmalhotraTHECODER/DSA/tree/master/0275-h-index-ii) |
 | [0283-move-zeroes](https://github.com/visheshmalhotraTHECODER/DSA/tree/master/0283-move-zeroes) |
+| [0287-find-the-duplicate-number](https://github.com/visheshmalhotraTHECODER/DSA/tree/master/0287-find-the-duplicate-number) |
 | [0347-top-k-frequent-elements](https://github.com/visheshmalhotraTHECODER/DSA/tree/master/0347-top-k-frequent-elements) |
 | [0416-partition-equal-subset-sum](https://github.com/visheshmalhotraTHECODER/DSA/tree/master/0416-partition-equal-subset-sum) |
 | [0452-minimum-number-of-arrows-to-burst-balloons](https://github.com/visheshmalhotraTHECODER/DSA/tree/master/0452-minimum-number-of-arrows-to-burst-balloons) |
@@ -155,6 +156,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/visheshmalhotraTHECODER/DSA/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0268-missing-number](https://github.com/visheshmalhotraTHECODER/DSA/tree/master/0268-missing-number) |
 | [0275-h-index-ii](https://github.com/visheshmalhotraTHECODER/DSA/tree/master/0275-h-index-ii) |
+| [0287-find-the-duplicate-number](https://github.com/visheshmalhotraTHECODER/DSA/tree/master/0287-find-the-duplicate-number) |
 | [0704-binary-search](https://github.com/visheshmalhotraTHECODER/DSA/tree/master/0704-binary-search) |
 ## Two Pointers
 |  |
@@ -170,6 +172,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/visheshmalhotraTHECODER/DSA/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0189-rotate-array](https://github.com/visheshmalhotraTHECODER/DSA/tree/master/0189-rotate-array) |
 | [0283-move-zeroes](https://github.com/visheshmalhotraTHECODER/DSA/tree/master/0283-move-zeroes) |
+| [0287-find-the-duplicate-number](https://github.com/visheshmalhotraTHECODER/DSA/tree/master/0287-find-the-duplicate-number) |
 | [0455-assign-cookies](https://github.com/visheshmalhotraTHECODER/DSA/tree/master/0455-assign-cookies) |
 | [0567-permutation-in-string](https://github.com/visheshmalhotraTHECODER/DSA/tree/master/0567-permutation-in-string) |
 | [0680-valid-palindrome-ii](https://github.com/visheshmalhotraTHECODER/DSA/tree/master/0680-valid-palindrome-ii) |
@@ -304,6 +307,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0090-subsets-ii](https://github.com/visheshmalhotraTHECODER/DSA/tree/master/0090-subsets-ii) |
 | [0136-single-number](https://github.com/visheshmalhotraTHECODER/DSA/tree/master/0136-single-number) |
 | [0268-missing-number](https://github.com/visheshmalhotraTHECODER/DSA/tree/master/0268-missing-number) |
+| [0287-find-the-duplicate-number](https://github.com/visheshmalhotraTHECODER/DSA/tree/master/0287-find-the-duplicate-number) |
 | [2351-first-letter-to-appear-twice](https://github.com/visheshmalhotraTHECODER/DSA/tree/master/2351-first-letter-to-appear-twice) |
 ## Matrix
 |  |
@@ -414,4 +418,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0274-h-index](https://github.com/visheshmalhotraTHECODER/DSA/tree/master/0274-h-index) |
+## Pigeonhole Principle
+|  |
+| ------- |
+| [0287-find-the-duplicate-number](https://github.com/visheshmalhotraTHECODER/DSA/tree/master/0287-find-the-duplicate-number) |
+## Floyd's Cycle Finding Algorithm
+|  |
+| ------- |
+| [0287-find-the-duplicate-number](https://github.com/visheshmalhotraTHECODER/DSA/tree/master/0287-find-the-duplicate-number) |
 <!---LeetCode Topics End-->
