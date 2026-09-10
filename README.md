@@ -213,6 +213,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0714-best-time-to-buy-and-sell-stock-with-transaction-fee](https://github.com/visheshmalhotraTHECODER/DSA/tree/master/0714-best-time-to-buy-and-sell-stock-with-transaction-fee) |
 | [0860-lemonade-change](https://github.com/visheshmalhotraTHECODER/DSA/tree/master/0860-lemonade-change) |
 | [2091-removing-minimum-and-maximum-from-array](https://github.com/visheshmalhotraTHECODER/DSA/tree/master/2091-removing-minimum-and-maximum-from-array) |
+| [2259-remove-digit-from-number-to-maximize-result](https://github.com/visheshmalhotraTHECODER/DSA/tree/master/2259-remove-digit-from-number-to-maximize-result) |
 ## String
 |  |
 | ------- |
@@ -232,6 +233,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0680-valid-palindrome-ii](https://github.com/visheshmalhotraTHECODER/DSA/tree/master/0680-valid-palindrome-ii) |
 | [0953-verifying-an-alien-dictionary](https://github.com/visheshmalhotraTHECODER/DSA/tree/master/0953-verifying-an-alien-dictionary) |
 | [1796-second-largest-digit-in-a-string](https://github.com/visheshmalhotraTHECODER/DSA/tree/master/1796-second-largest-digit-in-a-string) |
+| [2259-remove-digit-from-number-to-maximize-result](https://github.com/visheshmalhotraTHECODER/DSA/tree/master/2259-remove-digit-from-number-to-maximize-result) |
 | [2351-first-letter-to-appear-twice](https://github.com/visheshmalhotraTHECODER/DSA/tree/master/2351-first-letter-to-appear-twice) |
 ## Heap (Priority Queue)
 |  |
@@ -437,4 +439,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0002-add-two-numbers](https://github.com/visheshmalhotraTHECODER/DSA/tree/master/0002-add-two-numbers) |
+## Enumeration
+|  |
+| ------- |
+| [2259-remove-digit-from-number-to-maximize-result](https://github.com/visheshmalhotraTHECODER/DSA/tree/master/2259-remove-digit-from-number-to-maximize-result) |
 <!---LeetCode Topics End-->
