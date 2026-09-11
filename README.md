@@ -73,6 +73,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0953-verifying-an-alien-dictionary](https://github.com/visheshmalhotraTHECODER/DSA/tree/master/0953-verifying-an-alien-dictionary) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/visheshmalhotraTHECODER/DSA/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [1480-running-sum-of-1d-array](https://github.com/visheshmalhotraTHECODER/DSA/tree/master/1480-running-sum-of-1d-array) |
+| [1646-get-maximum-in-generated-array](https://github.com/visheshmalhotraTHECODER/DSA/tree/master/1646-get-maximum-in-generated-array) |
 | [2091-removing-minimum-and-maximum-from-array](https://github.com/visheshmalhotraTHECODER/DSA/tree/master/2091-removing-minimum-and-maximum-from-array) |
 | [2395-find-subarrays-with-equal-sum](https://github.com/visheshmalhotraTHECODER/DSA/tree/master/2395-find-subarrays-with-equal-sum) |
 | [3718-smallest-missing-multiple-of-k](https://github.com/visheshmalhotraTHECODER/DSA/tree/master/3718-smallest-missing-multiple-of-k) |
@@ -275,6 +276,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0054-spiral-matrix](https://github.com/visheshmalhotraTHECODER/DSA/tree/master/0054-spiral-matrix) |
 | [0059-spiral-matrix-ii](https://github.com/visheshmalhotraTHECODER/DSA/tree/master/0059-spiral-matrix-ii) |
 | [0412-fizz-buzz](https://github.com/visheshmalhotraTHECODER/DSA/tree/master/0412-fizz-buzz) |
+| [1646-get-maximum-in-generated-array](https://github.com/visheshmalhotraTHECODER/DSA/tree/master/1646-get-maximum-in-generated-array) |
 ## Trie
 |  |
 | ------- |
