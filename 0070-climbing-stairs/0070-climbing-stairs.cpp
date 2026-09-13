@@ -11,10 +11,10 @@ public:
         if(t[n]!= -1){
             return t[n];
         }
-        
-        t[n] = solve(n-1, t)+solve(n-2, t);
 
-        return t[n];
+        return t[n] = solve(n-1, t)+solve(n-2, t);
+
+       
     }
     int climbStairs(int n) {
 
