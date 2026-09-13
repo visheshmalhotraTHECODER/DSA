@@ -1,28 +1,27 @@
 class Solution {
 public:
-    int solve(vector<int>& nums,int n, vector<int>&t ){
+    int solve(vector<int>& nums, vector<int> &t, int n){
 
-        if(n==0){
-            return 0;
-        }
         if(n==1){
             return nums[0];
         }
-        if(t[n]!= -1){
+        if(n==0){
+            return 0;
+        }
+        if(t[n]!=-1){
             return t[n];
         }
-        else{
-            return t[n] =max(nums[n-1]+solve(nums, n-2, t), solve(nums, n-1, t));
-        }
+        t[n] = max(nums[n-1] + solve(nums,t , n-2) , solve(nums, t, n-1));
+
+        return t[n];
 
     }
-
     int rob(vector<int>& nums) {
+
         int n = nums.size();
 
         vector<int>t(n+1,-1);
 
-        return solve(nums, n, t);
-        
+        return solve(nums, t , n)     ;   
     }
 };
