@@ -231,6 +231,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0860-lemonade-change](https://github.com/visheshmalhotraTHECODER/DSA/tree/master/0860-lemonade-change) |
 | [0881-boats-to-save-people](https://github.com/visheshmalhotraTHECODER/DSA/tree/master/0881-boats-to-save-people) |
 | [0948-bag-of-tokens](https://github.com/visheshmalhotraTHECODER/DSA/tree/master/0948-bag-of-tokens) |
+| [0991-broken-calculator](https://github.com/visheshmalhotraTHECODER/DSA/tree/master/0991-broken-calculator) |
 | [1328-break-a-palindrome](https://github.com/visheshmalhotraTHECODER/DSA/tree/master/1328-break-a-palindrome) |
 | [2091-removing-minimum-and-maximum-from-array](https://github.com/visheshmalhotraTHECODER/DSA/tree/master/2091-removing-minimum-and-maximum-from-array) |
 | [2259-remove-digit-from-number-to-maximize-result](https://github.com/visheshmalhotraTHECODER/DSA/tree/master/2259-remove-digit-from-number-to-maximize-result) |
@@ -288,6 +289,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0268-missing-number](https://github.com/visheshmalhotraTHECODER/DSA/tree/master/0268-missing-number) |
 | [0412-fizz-buzz](https://github.com/visheshmalhotraTHECODER/DSA/tree/master/0412-fizz-buzz) |
 | [0509-fibonacci-number](https://github.com/visheshmalhotraTHECODER/DSA/tree/master/0509-fibonacci-number) |
+| [0991-broken-calculator](https://github.com/visheshmalhotraTHECODER/DSA/tree/master/0991-broken-calculator) |
 | [3622-check-divisibility-by-digit-sum-and-product](https://github.com/visheshmalhotraTHECODER/DSA/tree/master/3622-check-divisibility-by-digit-sum-and-product) |
 | [3875-construct-uniform-parity-array-i](https://github.com/visheshmalhotraTHECODER/DSA/tree/master/3875-construct-uniform-parity-array-i) |
 ## Simulation
