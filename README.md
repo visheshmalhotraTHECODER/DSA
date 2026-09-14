@@ -74,6 +74,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0739-daily-temperatures](https://github.com/visheshmalhotraTHECODER/DSA/tree/master/0739-daily-temperatures) |
 | [0746-min-cost-climbing-stairs](https://github.com/visheshmalhotraTHECODER/DSA/tree/master/0746-min-cost-climbing-stairs) |
 | [0860-lemonade-change](https://github.com/visheshmalhotraTHECODER/DSA/tree/master/0860-lemonade-change) |
+| [0881-boats-to-save-people](https://github.com/visheshmalhotraTHECODER/DSA/tree/master/0881-boats-to-save-people) |
 | [0948-bag-of-tokens](https://github.com/visheshmalhotraTHECODER/DSA/tree/master/0948-bag-of-tokens) |
 | [0953-verifying-an-alien-dictionary](https://github.com/visheshmalhotraTHECODER/DSA/tree/master/0953-verifying-an-alien-dictionary) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/visheshmalhotraTHECODER/DSA/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
@@ -192,6 +193,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0455-assign-cookies](https://github.com/visheshmalhotraTHECODER/DSA/tree/master/0455-assign-cookies) |
 | [0567-permutation-in-string](https://github.com/visheshmalhotraTHECODER/DSA/tree/master/0567-permutation-in-string) |
 | [0680-valid-palindrome-ii](https://github.com/visheshmalhotraTHECODER/DSA/tree/master/0680-valid-palindrome-ii) |
+| [0881-boats-to-save-people](https://github.com/visheshmalhotraTHECODER/DSA/tree/master/0881-boats-to-save-people) |
 | [0948-bag-of-tokens](https://github.com/visheshmalhotraTHECODER/DSA/tree/master/0948-bag-of-tokens) |
 ## Sorting
 |  |
@@ -212,6 +214,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0349-intersection-of-two-arrays](https://github.com/visheshmalhotraTHECODER/DSA/tree/master/0349-intersection-of-two-arrays) |
 | [0452-minimum-number-of-arrows-to-burst-balloons](https://github.com/visheshmalhotraTHECODER/DSA/tree/master/0452-minimum-number-of-arrows-to-burst-balloons) |
 | [0455-assign-cookies](https://github.com/visheshmalhotraTHECODER/DSA/tree/master/0455-assign-cookies) |
+| [0881-boats-to-save-people](https://github.com/visheshmalhotraTHECODER/DSA/tree/master/0881-boats-to-save-people) |
 | [0948-bag-of-tokens](https://github.com/visheshmalhotraTHECODER/DSA/tree/master/0948-bag-of-tokens) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/visheshmalhotraTHECODER/DSA/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 ## Greedy
@@ -226,6 +229,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0680-valid-palindrome-ii](https://github.com/visheshmalhotraTHECODER/DSA/tree/master/0680-valid-palindrome-ii) |
 | [0714-best-time-to-buy-and-sell-stock-with-transaction-fee](https://github.com/visheshmalhotraTHECODER/DSA/tree/master/0714-best-time-to-buy-and-sell-stock-with-transaction-fee) |
 | [0860-lemonade-change](https://github.com/visheshmalhotraTHECODER/DSA/tree/master/0860-lemonade-change) |
+| [0881-boats-to-save-people](https://github.com/visheshmalhotraTHECODER/DSA/tree/master/0881-boats-to-save-people) |
 | [0948-bag-of-tokens](https://github.com/visheshmalhotraTHECODER/DSA/tree/master/0948-bag-of-tokens) |
 | [2091-removing-minimum-and-maximum-from-array](https://github.com/visheshmalhotraTHECODER/DSA/tree/master/2091-removing-minimum-and-maximum-from-array) |
 | [2259-remove-digit-from-number-to-maximize-result](https://github.com/visheshmalhotraTHECODER/DSA/tree/master/2259-remove-digit-from-number-to-maximize-result) |
@@ -459,4 +463,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2259-remove-digit-from-number-to-maximize-result](https://github.com/visheshmalhotraTHECODER/DSA/tree/master/2259-remove-digit-from-number-to-maximize-result) |
+## Timsort
+|  |
+| ------- |
+| [0881-boats-to-save-people](https://github.com/visheshmalhotraTHECODER/DSA/tree/master/0881-boats-to-save-people) |
 <!---LeetCode Topics End-->
