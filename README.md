@@ -26,6 +26,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0056-merge-intervals](https://github.com/visheshmalhotraTHECODER/DSA/tree/master/0056-merge-intervals) |
 | [0057-insert-interval](https://github.com/visheshmalhotraTHECODER/DSA/tree/master/0057-insert-interval) |
 | [0059-spiral-matrix-ii](https://github.com/visheshmalhotraTHECODER/DSA/tree/master/0059-spiral-matrix-ii) |
+| [0066-plus-one](https://github.com/visheshmalhotraTHECODER/DSA/tree/master/0066-plus-one) |
 | [0073-set-matrix-zeroes](https://github.com/visheshmalhotraTHECODER/DSA/tree/master/0073-set-matrix-zeroes) |
 | [0075-sort-colors](https://github.com/visheshmalhotraTHECODER/DSA/tree/master/0075-sort-colors) |
 | [0078-subsets](https://github.com/visheshmalhotraTHECODER/DSA/tree/master/0078-subsets) |
@@ -291,6 +292,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0002-add-two-numbers](https://github.com/visheshmalhotraTHECODER/DSA/tree/master/0002-add-two-numbers) |
+| [0066-plus-one](https://github.com/visheshmalhotraTHECODER/DSA/tree/master/0066-plus-one) |
 | [0070-climbing-stairs](https://github.com/visheshmalhotraTHECODER/DSA/tree/master/0070-climbing-stairs) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/visheshmalhotraTHECODER/DSA/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0189-rotate-array](https://github.com/visheshmalhotraTHECODER/DSA/tree/master/0189-rotate-array) |
