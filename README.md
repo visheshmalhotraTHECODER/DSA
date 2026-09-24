@@ -85,6 +85,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1480-running-sum-of-1d-array](https://github.com/visheshmalhotraTHECODER/DSA/tree/master/1480-running-sum-of-1d-array) |
 | [1646-get-maximum-in-generated-array](https://github.com/visheshmalhotraTHECODER/DSA/tree/master/1646-get-maximum-in-generated-array) |
 | [2091-removing-minimum-and-maximum-from-array](https://github.com/visheshmalhotraTHECODER/DSA/tree/master/2091-removing-minimum-and-maximum-from-array) |
+| [2225-find-players-with-zero-or-one-losses](https://github.com/visheshmalhotraTHECODER/DSA/tree/master/2225-find-players-with-zero-or-one-losses) |
 | [2395-find-subarrays-with-equal-sum](https://github.com/visheshmalhotraTHECODER/DSA/tree/master/2395-find-subarrays-with-equal-sum) |
 | [3718-smallest-missing-multiple-of-k](https://github.com/visheshmalhotraTHECODER/DSA/tree/master/3718-smallest-missing-multiple-of-k) |
 | [3875-construct-uniform-parity-array-i](https://github.com/visheshmalhotraTHECODER/DSA/tree/master/3875-construct-uniform-parity-array-i) |
@@ -113,6 +114,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0567-permutation-in-string](https://github.com/visheshmalhotraTHECODER/DSA/tree/master/0567-permutation-in-string) |
 | [0953-verifying-an-alien-dictionary](https://github.com/visheshmalhotraTHECODER/DSA/tree/master/0953-verifying-an-alien-dictionary) |
 | [1796-second-largest-digit-in-a-string](https://github.com/visheshmalhotraTHECODER/DSA/tree/master/1796-second-largest-digit-in-a-string) |
+| [2225-find-players-with-zero-or-one-losses](https://github.com/visheshmalhotraTHECODER/DSA/tree/master/2225-find-players-with-zero-or-one-losses) |
 | [2351-first-letter-to-appear-twice](https://github.com/visheshmalhotraTHECODER/DSA/tree/master/2351-first-letter-to-appear-twice) |
 | [2395-find-subarrays-with-equal-sum](https://github.com/visheshmalhotraTHECODER/DSA/tree/master/2395-find-subarrays-with-equal-sum) |
 | [3718-smallest-missing-multiple-of-k](https://github.com/visheshmalhotraTHECODER/DSA/tree/master/3718-smallest-missing-multiple-of-k) |
@@ -225,6 +227,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0881-boats-to-save-people](https://github.com/visheshmalhotraTHECODER/DSA/tree/master/0881-boats-to-save-people) |
 | [0948-bag-of-tokens](https://github.com/visheshmalhotraTHECODER/DSA/tree/master/0948-bag-of-tokens) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/visheshmalhotraTHECODER/DSA/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
+| [2225-find-players-with-zero-or-one-losses](https://github.com/visheshmalhotraTHECODER/DSA/tree/master/2225-find-players-with-zero-or-one-losses) |
 ## Greedy
 |  |
 | ------- |
@@ -282,6 +285,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0169-majority-element](https://github.com/visheshmalhotraTHECODER/DSA/tree/master/0169-majority-element) |
 | [0347-top-k-frequent-elements](https://github.com/visheshmalhotraTHECODER/DSA/tree/master/0347-top-k-frequent-elements) |
+| [2225-find-players-with-zero-or-one-losses](https://github.com/visheshmalhotraTHECODER/DSA/tree/master/2225-find-players-with-zero-or-one-losses) |
 | [2351-first-letter-to-appear-twice](https://github.com/visheshmalhotraTHECODER/DSA/tree/master/2351-first-letter-to-appear-twice) |
 ## Quickselect
 |  |
