@@ -1,17 +1,18 @@
 class Solution {
 public:
     bool containsDuplicate(vector<int>& nums) {
-        unordered_set<int>jhola;
         int n = nums.size();
-        for(int num:nums){
-            if(jhola.find(num)!= jhola.end()){
+
+        unordered_set<int>jhola;
+
+        for(int i = 0; i<n; i++){
+            if(jhola.find(nums[i])!= jhola.end()){
                 return true;
             }
             else{
-                jhola.insert(num);
+                jhola.insert(nums[i]);
             }
         }
         return false;
-        
     }
 };
