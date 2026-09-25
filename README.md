@@ -84,6 +84,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/visheshmalhotraTHECODER/DSA/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [1480-running-sum-of-1d-array](https://github.com/visheshmalhotraTHECODER/DSA/tree/master/1480-running-sum-of-1d-array) |
 | [1646-get-maximum-in-generated-array](https://github.com/visheshmalhotraTHECODER/DSA/tree/master/1646-get-maximum-in-generated-array) |
+| [1929-concatenation-of-array](https://github.com/visheshmalhotraTHECODER/DSA/tree/master/1929-concatenation-of-array) |
 | [2091-removing-minimum-and-maximum-from-array](https://github.com/visheshmalhotraTHECODER/DSA/tree/master/2091-removing-minimum-and-maximum-from-array) |
 | [2225-find-players-with-zero-or-one-losses](https://github.com/visheshmalhotraTHECODER/DSA/tree/master/2225-find-players-with-zero-or-one-losses) |
 | [2395-find-subarrays-with-equal-sum](https://github.com/visheshmalhotraTHECODER/DSA/tree/master/2395-find-subarrays-with-equal-sum) |
@@ -313,6 +314,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0059-spiral-matrix-ii](https://github.com/visheshmalhotraTHECODER/DSA/tree/master/0059-spiral-matrix-ii) |
 | [0412-fizz-buzz](https://github.com/visheshmalhotraTHECODER/DSA/tree/master/0412-fizz-buzz) |
 | [1646-get-maximum-in-generated-array](https://github.com/visheshmalhotraTHECODER/DSA/tree/master/1646-get-maximum-in-generated-array) |
+| [1929-concatenation-of-array](https://github.com/visheshmalhotraTHECODER/DSA/tree/master/1929-concatenation-of-array) |
 ## Trie
 |  |
 | ------- |
