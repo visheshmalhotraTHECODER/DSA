@@ -75,6 +75,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0695-max-area-of-island](https://github.com/visheshmalhotraTHECODER/DSA/tree/master/0695-max-area-of-island) |
 | [0704-binary-search](https://github.com/visheshmalhotraTHECODER/DSA/tree/master/0704-binary-search) |
 | [0705-design-hashset](https://github.com/visheshmalhotraTHECODER/DSA/tree/master/0705-design-hashset) |
+| [0706-design-hashmap](https://github.com/visheshmalhotraTHECODER/DSA/tree/master/0706-design-hashmap) |
 | [0714-best-time-to-buy-and-sell-stock-with-transaction-fee](https://github.com/visheshmalhotraTHECODER/DSA/tree/master/0714-best-time-to-buy-and-sell-stock-with-transaction-fee) |
 | [0724-find-pivot-index](https://github.com/visheshmalhotraTHECODER/DSA/tree/master/0724-find-pivot-index) |
 | [0739-daily-temperatures](https://github.com/visheshmalhotraTHECODER/DSA/tree/master/0739-daily-temperatures) |
@@ -116,6 +117,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0560-subarray-sum-equals-k](https://github.com/visheshmalhotraTHECODER/DSA/tree/master/0560-subarray-sum-equals-k) |
 | [0567-permutation-in-string](https://github.com/visheshmalhotraTHECODER/DSA/tree/master/0567-permutation-in-string) |
 | [0705-design-hashset](https://github.com/visheshmalhotraTHECODER/DSA/tree/master/0705-design-hashset) |
+| [0706-design-hashmap](https://github.com/visheshmalhotraTHECODER/DSA/tree/master/0706-design-hashmap) |
 | [0953-verifying-an-alien-dictionary](https://github.com/visheshmalhotraTHECODER/DSA/tree/master/0953-verifying-an-alien-dictionary) |
 | [1796-second-largest-digit-in-a-string](https://github.com/visheshmalhotraTHECODER/DSA/tree/master/1796-second-largest-digit-in-a-string) |
 | [2225-find-players-with-zero-or-one-losses](https://github.com/visheshmalhotraTHECODER/DSA/tree/master/2225-find-players-with-zero-or-one-losses) |
@@ -410,6 +412,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0155-min-stack](https://github.com/visheshmalhotraTHECODER/DSA/tree/master/0155-min-stack) |
 | [0705-design-hashset](https://github.com/visheshmalhotraTHECODER/DSA/tree/master/0705-design-hashset) |
+| [0706-design-hashmap](https://github.com/visheshmalhotraTHECODER/DSA/tree/master/0706-design-hashmap) |
 ## Monotonic Stack
 |  |
 | ------- |
@@ -486,6 +489,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0002-add-two-numbers](https://github.com/visheshmalhotraTHECODER/DSA/tree/master/0002-add-two-numbers) |
 | [0705-design-hashset](https://github.com/visheshmalhotraTHECODER/DSA/tree/master/0705-design-hashset) |
+| [0706-design-hashmap](https://github.com/visheshmalhotraTHECODER/DSA/tree/master/0706-design-hashmap) |
 ## Enumeration
 |  |
 | ------- |
@@ -502,4 +506,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0705-design-hashset](https://github.com/visheshmalhotraTHECODER/DSA/tree/master/0705-design-hashset) |
+| [0706-design-hashmap](https://github.com/visheshmalhotraTHECODER/DSA/tree/master/0706-design-hashmap) |
 <!---LeetCode Topics End-->
