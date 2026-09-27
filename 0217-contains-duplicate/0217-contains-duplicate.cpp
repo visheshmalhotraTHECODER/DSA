@@ -5,13 +5,11 @@ public:
 
         unordered_set<int>jhola;
 
-        for(int i = 0; i<n; i++){
+        for(int i = 0; i<n ; i++){
             if(jhola.find(nums[i])!= jhola.end()){
                 return true;
             }
-            else{
-                jhola.insert(nums[i]);
-            }
+            jhola.insert(nums[i]);
         }
         return false;
     }
