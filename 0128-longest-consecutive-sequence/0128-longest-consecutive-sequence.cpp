@@ -3,31 +3,25 @@ public:
     int longestConsecutive(vector<int>& nums) {
         int n = nums.size();
 
-        if(nums.empty()){
-            return 0;
+        unordered_set<int> jhola;
+
+        for (int num : nums) {
+            jhola.insert(num);
         }
+        int longest = 0;
 
-        sort(nums.begin(),nums.end());
+        for (int num : jhola) {
+            if (jhola.find(num - 1) == jhola.end()) {
+                int current = num;
+                int count = 1;
 
-
-        int current = 1;
-
-        int maxCount = 1;
-
-        for(int i = 1; i<n; i++){
-
-            if(nums[i]==nums[i-1]+1){
-                current++;
+                while (jhola.find(current + 1) != jhola.end()) {
+                    current++;
+                    count++;
+                }
+                longest = max(longest, count);
             }
-            else if(nums[i] == nums[i-1]){
-                continue;
-            }
-            else{
-                current =1;
-            }
-           maxCount=max(maxCount, current);
-
         }
-        return maxCount;
+        return longest;
     }
 };
