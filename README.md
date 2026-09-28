@@ -19,6 +19,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0036-valid-sudoku](https://github.com/visheshmalhotraTHECODER/DSA/tree/master/0036-valid-sudoku) |
 | [0039-combination-sum](https://github.com/visheshmalhotraTHECODER/DSA/tree/master/0039-combination-sum) |
 | [0040-combination-sum-ii](https://github.com/visheshmalhotraTHECODER/DSA/tree/master/0040-combination-sum-ii) |
+| [0042-trapping-rain-water](https://github.com/visheshmalhotraTHECODER/DSA/tree/master/0042-trapping-rain-water) |
 | [0046-permutations](https://github.com/visheshmalhotraTHECODER/DSA/tree/master/0046-permutations) |
 | [0047-permutations-ii](https://github.com/visheshmalhotraTHECODER/DSA/tree/master/0047-permutations-ii) |
 | [0049-group-anagrams](https://github.com/visheshmalhotraTHECODER/DSA/tree/master/0049-group-anagrams) |
@@ -159,6 +160,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/visheshmalhotraTHECODER/DSA/tree/master/0005-longest-palindromic-substring) |
 | [0022-generate-parentheses](https://github.com/visheshmalhotraTHECODER/DSA/tree/master/0022-generate-parentheses) |
+| [0042-trapping-rain-water](https://github.com/visheshmalhotraTHECODER/DSA/tree/master/0042-trapping-rain-water) |
 | [0053-maximum-subarray](https://github.com/visheshmalhotraTHECODER/DSA/tree/master/0053-maximum-subarray) |
 | [0055-jump-game](https://github.com/visheshmalhotraTHECODER/DSA/tree/master/0055-jump-game) |
 | [0070-climbing-stairs](https://github.com/visheshmalhotraTHECODER/DSA/tree/master/0070-climbing-stairs) |
@@ -200,6 +202,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0026-remove-duplicates-from-sorted-array](https://github.com/visheshmalhotraTHECODER/DSA/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0027-remove-element](https://github.com/visheshmalhotraTHECODER/DSA/tree/master/0027-remove-element) |
 | [0031-next-permutation](https://github.com/visheshmalhotraTHECODER/DSA/tree/master/0031-next-permutation) |
+| [0042-trapping-rain-water](https://github.com/visheshmalhotraTHECODER/DSA/tree/master/0042-trapping-rain-water) |
 | [0075-sort-colors](https://github.com/visheshmalhotraTHECODER/DSA/tree/master/0075-sort-colors) |
 | [0088-merge-sorted-array](https://github.com/visheshmalhotraTHECODER/DSA/tree/master/0088-merge-sorted-array) |
 | [0125-valid-palindrome](https://github.com/visheshmalhotraTHECODER/DSA/tree/master/0125-valid-palindrome) |
@@ -334,6 +337,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/visheshmalhotraTHECODER/DSA/tree/master/0020-valid-parentheses) |
+| [0042-trapping-rain-water](https://github.com/visheshmalhotraTHECODER/DSA/tree/master/0042-trapping-rain-water) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/visheshmalhotraTHECODER/DSA/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0155-min-stack](https://github.com/visheshmalhotraTHECODER/DSA/tree/master/0155-min-stack) |
 | [0496-next-greater-element-i](https://github.com/visheshmalhotraTHECODER/DSA/tree/master/0496-next-greater-element-i) |
@@ -421,6 +425,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Monotonic Stack
 |  |
 | ------- |
+| [0042-trapping-rain-water](https://github.com/visheshmalhotraTHECODER/DSA/tree/master/0042-trapping-rain-water) |
 | [0496-next-greater-element-i](https://github.com/visheshmalhotraTHECODER/DSA/tree/master/0496-next-greater-element-i) |
 | [0503-next-greater-element-ii](https://github.com/visheshmalhotraTHECODER/DSA/tree/master/0503-next-greater-element-ii) |
 | [0739-daily-temperatures](https://github.com/visheshmalhotraTHECODER/DSA/tree/master/0739-daily-temperatures) |
