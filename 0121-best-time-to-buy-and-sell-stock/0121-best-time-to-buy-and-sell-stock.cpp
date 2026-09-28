@@ -14,7 +14,7 @@ public:
             maxProfit = max(maxProfit, profit);
 
             if(nums[right]<nums[left]){
-                left = right;
+                left= right;
             }
 
         }
