@@ -347,6 +347,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0002-add-two-numbers](https://github.com/visheshmalhotraTHECODER/DSA/tree/master/0002-add-two-numbers) |
+| [0203-remove-linked-list-elements](https://github.com/visheshmalhotraTHECODER/DSA/tree/master/0203-remove-linked-list-elements) |
 | [0509-fibonacci-number](https://github.com/visheshmalhotraTHECODER/DSA/tree/master/0509-fibonacci-number) |
 ## Memoization
 |  |
@@ -498,6 +499,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0002-add-two-numbers](https://github.com/visheshmalhotraTHECODER/DSA/tree/master/0002-add-two-numbers) |
+| [0203-remove-linked-list-elements](https://github.com/visheshmalhotraTHECODER/DSA/tree/master/0203-remove-linked-list-elements) |
 | [0705-design-hashset](https://github.com/visheshmalhotraTHECODER/DSA/tree/master/0705-design-hashset) |
 | [0706-design-hashmap](https://github.com/visheshmalhotraTHECODER/DSA/tree/master/0706-design-hashmap) |
 ## Enumeration
