@@ -283,6 +283,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0953-verifying-an-alien-dictionary](https://github.com/visheshmalhotraTHECODER/DSA/tree/master/0953-verifying-an-alien-dictionary) |
 | [1328-break-a-palindrome](https://github.com/visheshmalhotraTHECODER/DSA/tree/master/1328-break-a-palindrome) |
 | [1796-second-largest-digit-in-a-string](https://github.com/visheshmalhotraTHECODER/DSA/tree/master/1796-second-largest-digit-in-a-string) |
+| [2124-check-if-all-as-appears-before-all-bs](https://github.com/visheshmalhotraTHECODER/DSA/tree/master/2124-check-if-all-as-appears-before-all-bs) |
 | [2259-remove-digit-from-number-to-maximize-result](https://github.com/visheshmalhotraTHECODER/DSA/tree/master/2259-remove-digit-from-number-to-maximize-result) |
 | [2351-first-letter-to-appear-twice](https://github.com/visheshmalhotraTHECODER/DSA/tree/master/2351-first-letter-to-appear-twice) |
 ## Heap (Priority Queue)
