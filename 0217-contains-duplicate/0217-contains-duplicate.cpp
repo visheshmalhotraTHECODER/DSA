@@ -9,8 +9,11 @@ public:
             if(jhola.find(nums[i])!= jhola.end()){
                 return true;
             }
-            jhola.insert(nums[i]);
+            else{
+                jhola.insert(nums[i]);
+            }
         }
         return false;
+        
     }
 };
