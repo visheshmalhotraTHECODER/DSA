@@ -1,27 +1,26 @@
 class Solution {
 public:
     int longestConsecutive(vector<int>& nums) {
-        int n = nums.size();
 
-        unordered_set<int> jhola;
+        unordered_set<int>jhola(nums.begin(), nums.end());
+        int longest =0;
 
-        for (int num : nums) {
-            jhola.insert(num);
-        }
-        int longest = 0;
-
-        for (int num : jhola) {
-            if (jhola.find(num - 1) == jhola.end()) {
-                int current = num;
-                int count = 1;
-
-                while (jhola.find(current + 1) != jhola.end()) {
-                    current++;
-                    count++;
-                }
-                longest = max(longest, count);
+        for(int x : jhola){
+            if(jhola.find(x-1) != jhola.end()){
+                continue;
             }
+            int curr = x;
+            int len = 1;
+
+            while(jhola.find(curr + 1) != jhola.end()){
+                curr++;
+                len++;
+            }
+            longest = max(longest, len);
+
         }
+
+
         return longest;
     }
 };
