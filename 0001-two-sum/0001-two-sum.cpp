@@ -5,13 +5,19 @@ public:
 
         unordered_map<int,int>jhola;
 
-        for(int i = 0; i<n; i++){
-            int req = target - nums[i];
-            if(jhola.find(req)!=jhola.end()){
-                return {jhola[req], i};
+        for(int i=0; i<n; i++){
+
+            int required = target - nums[i];
+
+            if(jhola.find(required)!=jhola.end()){
+
+                return {jhola[required], i};
             }
-            jhola[nums[i]] = i;
+            else{
+                jhola[nums[i]] = i;
+            }
         }
         return {};
+        
     }
 };
